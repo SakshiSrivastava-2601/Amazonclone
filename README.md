@@ -81,7 +81,7 @@ THIS IS THE MAIN SECTION.....
 
 
 
-THIS IS THE FOOTER SECTION
+THIS IS THE FOOTER SECTION.....
 
 ![Screenshot 2024-07-11 052040](https://github.com/SakshiSrivastava-2601/Amazonclone/assets/141807372/1df323c0-218a-4a36-aa11-ccc65f506a0a)
 
